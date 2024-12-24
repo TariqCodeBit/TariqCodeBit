@@ -19,6 +19,10 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 </a>
+<a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original.svg" alt="ASP.NET" width="40" height="40"/>
+</a>
+
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </a>
@@ -59,15 +63,6 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </a>
-<a href="https://www.geeksforgeeks.org/data-structures/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/GeeksforGeeks_Logo.svg/640px-GeeksforGeeks_Logo.svg.png" alt="Data Structures" width="40" height="40"/>
-</a>
-<a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/GeeksforGeeks_Logo.svg" alt="Algorithms" width="40" height="40"/>
-</a>
-<a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original.svg" alt="ASP.NET" width="40" height="40"/>
-</a
 
 
 
