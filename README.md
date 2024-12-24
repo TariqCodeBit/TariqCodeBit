@@ -64,6 +64,9 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </a>
+<a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/GeeksforGeeks_Logo.svg/640px-GeeksforGeeks_Logo.svg.png" alt="Algorithms" width="40" height="40"/>
+</a>
 
 
 
