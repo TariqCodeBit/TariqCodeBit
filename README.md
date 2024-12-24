@@ -66,7 +66,9 @@
 </a>
 <a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks_logo.png/640px-GeeksforGeeks_logo.png" alt="Algorithms" width="40" height="40"/>
+  <p>Algorithms</p>
 </a>
+
 
 
 
