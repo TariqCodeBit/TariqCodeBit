@@ -65,7 +65,6 @@
 <a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/GeeksforGeeks_Logo.svg" alt="Algorithms" width="40" height="40"/>
 </a>
-
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original.svg" alt="ASP.NET" width="40" height="40"/>
 </a>
