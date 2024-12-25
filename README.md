@@ -61,10 +61,7 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </a>
-<a href="https://example.com" target="_blank" rel="noreferrer">
-  <img src="https://example.com/path-to-your-brain-icon.png" alt="Brain Icon" width="40" height="40"/>
 
-</a>
 
 
 
