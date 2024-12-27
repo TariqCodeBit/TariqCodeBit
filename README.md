@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarek</h1>
-<h3 align="center">Full Stack Web Development ( Frontend: ReactJS | Backend: .NET (ASP.NET Core, C# ) </>, From Egypt</h3>
+<h3 align="center">Full Stack Web Development (Frontend: ReactJS | Backend: .NET (ASP.NET Framework, C#) </>, From Egypt</h3>
 
 
 
