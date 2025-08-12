@@ -59,6 +59,19 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </a>
+
+
+
+
+
+
+
+<hr>
+
+ 
+<div>
+  <img align="right" alt="Coding" src="https://github.com/TariqCodeBit/photoProfile/blob/main/animation.gif-ezgif.com-added-text.gif" style="max-width: 100% ; display: inline-block;" data-target="animated-image.originalImage">
+</div>
 <!-- Contribution Snake -->
 <picture>
   <source
@@ -74,17 +87,4 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-
-
-
-
-
-<hr>
-
- 
-<div>
-  <img align="right" alt="Coding" src="https://github.com/TariqCodeBit/photoProfile/blob/main/animation.gif-ezgif.com-added-text.gif" style="max-width: 100% ; display: inline-block;" data-target="animated-image.originalImage">
-</div>
-
 
