@@ -87,8 +87,8 @@ const Tarek = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
+  <hr/>
 </div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TariqCodeBit&layout=compact&theme=tokyonight" alt="Top languages" height="150"/>
 </div>
