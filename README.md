@@ -4,6 +4,9 @@
 
 > *"Still learning. Still building. Still growing."*
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Always+Learning+Something+New;Coding+%7C+Building+%7C+Growing" />
+</h3>
 
 ## About Me
 ```typescript
