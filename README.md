@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Tarek Ahmed</h1>
 
-# - *"Still learning. Still building. Still growing."*
+
+> *"Still learning. Still building. Still growing."*
 
 
 ## About Me
