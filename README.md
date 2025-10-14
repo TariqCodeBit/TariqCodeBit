@@ -21,6 +21,8 @@ const Tarek = {
   motto: "Code. Learn. Build. Repeat."
 };
 ```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TariqCodeBit&theme=tokyo-night" height="250"/>
+
  <div align="right">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -118,7 +120,7 @@ const Tarek = {
 
 
 </div>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TariqCodeBit&theme=tokyo-night" height="250"/>
+
 
 
 
