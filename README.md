@@ -1,4 +1,5 @@
-
+## About Me
+```typescript
 
 const Tarek = {
   role: "Software Engineering Student @ Programming Advices",
@@ -9,7 +10,8 @@ const Tarek = {
   goals: ["Master Full Stack", "Work on real projects", "Contribute to Open Source"],
   motto: "Code. Learn. Build. Repeat."
 };
-
+```
+ذذ
 
 
 # Frontend Tech
