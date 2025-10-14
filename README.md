@@ -32,11 +32,11 @@ const Tarek = {
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SQL_Server_Management_Studio-0078D7?style=for-the-badge&logo=microsoft&logoColor=white)
 
-<p align="center">
-![C++](https://techicons.dev/icons/cplusplus.png)
+
+![C++](https://techicons.dev/icons/cplusplus.svg)
 
 
-</p>
+
 
 <p align="center">
   🧩 <b>Concepts:</b> LINQ · Entity Framework Core · ASP.NET Core · RESTful API · ADO.NET · SQL · T-SQL
