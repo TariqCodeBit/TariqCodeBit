@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Tarek Ahmed</h1>
-
+<!-- 💫 Welcome Section -->
+<h1 align="center">👋 Hi, I'm Tarek Ahmed</h1>
+<h3 align="center">💻 Full Stack Developer | .NET | C# | SQL Server</h3>
 
 > *"Still learning. Still building. Still growing."*
 
@@ -114,6 +115,7 @@ const Tarek = {
 
 
 </div>
+
 ### 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/tarek-ahmed-el-56b0802a8" target="_blank">
