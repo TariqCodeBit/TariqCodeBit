@@ -34,7 +34,7 @@ const Tarek = {
 
 
 ر<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,ts,react,dotnet,git,github,sqlserver,mysql,postgres,vscode,visualstudio,postman,powershell" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,ts,react,dotnet,git,github,sqlserver,vscode,visualstudio, Ado.net , Asp.net , Api " />
 </p>
 
 
