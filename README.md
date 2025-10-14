@@ -11,7 +11,7 @@ const Tarek = {
   motto: "Code. Learn. Build. Repeat."
 };
 ```
-ذذ
+
 
 
 ###   Frontend Tech
@@ -31,4 +31,10 @@ const Tarek = {
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SQL_Server_Management_Studio-0078D7?style=for-the-badge&logo=microsoft&logoColor=white)
+
+
+ر<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,ts,react,dotnet,git,github,sqlserver,mysql,postgres,vscode,visualstudio,postman,powershell" />
+</p>
+
 
