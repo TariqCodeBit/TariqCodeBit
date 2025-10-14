@@ -33,7 +33,8 @@ const Tarek = {
 ![SSMS](https://img.shields.io/badge/SQL_Server_Management_Studio-0078D7?style=for-the-badge&logo=microsoft&logoColor=white)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,ts,react,git,github,vscode,visualstudio,dotnet,docker,postgres,mysql" />
+  ![CPP]([./images/diagram.png](https://techicons.dev/icons/cplusplus))
+
 </p>
 
 <p align="center">
