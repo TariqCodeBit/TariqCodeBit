@@ -33,7 +33,8 @@ const Tarek = {
 ![SSMS](https://img.shields.io/badge/SQL_Server_Management_Studio-0078D7?style=for-the-badge&logo=microsoft&logoColor=white)
 
 
-![C++](https://techicons.dev/icons/cplusplus.svg)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 
 
 
