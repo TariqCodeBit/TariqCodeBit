@@ -89,6 +89,10 @@ const Tarek = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TariqCodeBit&layout=compact&theme=tokyonight" alt="Top languages" height="150"/>
+</div>
+
 
 ###
 
@@ -105,7 +109,7 @@ const Tarek = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TariqCodeBit&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=TariqCodeBit&theme=tokyonight" alt="GitHub Streak" height="180"/>
+   <img src="https://streak-stats.demolab.com/?user=TariqCodeBit&theme=tokyonight" height="180"/>
 
 </div>
 
