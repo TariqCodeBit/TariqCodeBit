@@ -1,7 +1,7 @@
 
 <!-- 💫 Welcome Section -->
-<h1 align="center">👋 Hi, I'm Tarek Ahmed</h1>
-<h3 align="center">💻 Full Stack Developer | .NET | C# | SQL Server</h3>
+<h1 align="center">👋 Hi, I'm Tarek Ahmed , from Egypt 🇪🇬</h1>
+<h2 align="center">💻 Full Stack Developer | .NET | C# | SQL Server</h2>
 
 > *"Still learning. Still building. Still growing."*
 
@@ -22,7 +22,7 @@ const Tarek = {
   motto: "Code. Learn. Build. Repeat."
 };
 ```
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TariqCodeBit&theme=tokyo-night" height="250"/>
+
 
  <div align="right">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
@@ -94,6 +94,7 @@ const Tarek = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
   <hr/>
 </div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TariqCodeBit&layout=compact&theme=tokyonight" alt="Top languages" height="150"/>
 </div>
@@ -113,7 +114,7 @@ const Tarek = {
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=TariqCodeBit&theme=tokyonight" alt="GitHub streak" height="180"/>
 
-
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=TariqCodeBit&theme=tokyo-night" height="250"/>
 </div>
 
 ### 📫 Connect with Me
