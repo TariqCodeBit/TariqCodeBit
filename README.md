@@ -92,6 +92,7 @@ const Tarek = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TariqCodeBit&layout=compact&theme=tokyonight" alt="Top languages" height="150"/>
 </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TariqCodeBit&layout=compact&theme=tokyonight" height="180"/>
 
 
 ###
@@ -109,7 +110,9 @@ const Tarek = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TariqCodeBit&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-   <img src="https://streak-stats.demolab.com/?user=TariqCodeBit&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TariqCodeBit&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=TariqCodeBit&show_icons=true&theme=tokyonight" height="180"/>
+
 
 </div>
 
