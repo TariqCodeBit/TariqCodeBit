@@ -22,6 +22,12 @@ const Tarek = {
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TariqCodeBit&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TariqCodeBit&theme=tokyonight" alt="GitHub streak stats" height="180"/>
+</div>
 
 
 ###   Frontend Tech
