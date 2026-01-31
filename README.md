@@ -1,12 +1,12 @@
 
 <!-- 💫 Welcome Section -->
 <h1 align="center">👋 Hi, I'm Tarek Ahmed , from Egypt 🇪🇬</h1>
-<h2 align="center">💻 Full Stack Developer | .NET | C# | SQL Server</h2>
+<h2 align="center">💻 Software Engineer | .NET | C# | SQL Server</h2>
 
 > *"Still learning. Still building. Still growing."*
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Always+Learning+Something+New;Coding+%7C+Building+%7C+Growing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Software Engineer;Always+Learning+Something+New;Coding+%7C+Building+%7C+Growing" />
 </h3>
 
 ## About Me
